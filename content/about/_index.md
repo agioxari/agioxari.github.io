@@ -21,6 +21,10 @@ interests:
       and oxidative stress
     - Sustainable dietary patterns
     - AI and data-driven dietary interventions
+    - Randomised, controlled clinical trials
+    - Human bioavailability studies
+    - Human postprandial studies
+    - Nutritional interventions in experimental models
 
 affiliations:
     - affiliation:
