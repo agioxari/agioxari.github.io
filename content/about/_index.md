@@ -14,7 +14,13 @@ socials:
     google_scholar: "citations?user=1DkSFNEAAAAJ"
 
 interests:
-    - TODO
+    - The impact of Mediterranean diet on obesity and non-communicable diseases
+    - The effects of functional foods, natural products, and bioactive compounds
+      on health and disease
+    - The role of nutrients and non-nutrient microconstituents in inflammation
+      and oxidative stress
+    - Sustainable dietary patterns
+    - AI and data-driven dietary interventions
 
 affiliations:
     - affiliation:
