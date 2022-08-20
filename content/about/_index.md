@@ -38,4 +38,9 @@ academia:
 #        other_info: 'graduated without first class honor, supervised by Prof. Very Cool!'
 ---
 
-TODO: Introduce yourself here.
+I am Assistant Professor of Clinical Nutrition at the Department of Nutritional
+Science and Dietetics of the University of Peloponnese in Kalamata-Greece.
+My expertise is in investigating the effects of diet, mainly Mediterranean diet
+including its foods and food components, on health-related outcomes with
+emphasis on the clinical-laboratory profile, inflammation, oxidative stress,
+metabolic indices, and biomarkers related to chronic disease.
