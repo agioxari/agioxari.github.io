@@ -4,7 +4,7 @@ date: 2022-06-12
 draft: false
 headless: true
 
-full_name: "Αριστέα Γκιοξάρι | Aristea Gioxari"
+full_name: "Αριστέα Γκιοξάρη | Aristea Gioxari"
 profile_picture: "profile.png"
 # cv: "cv.pdf"
 # set to false if you don't want to show your blog
