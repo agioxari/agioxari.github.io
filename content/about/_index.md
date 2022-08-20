@@ -27,7 +27,8 @@ academia:
         degree: "Ph.D.,"
         institution:  "Harokopio University"
         major: "Department of Dietetics and Nutritional Science"
-        start_date: "2011"
+        start_date: "2006"
+        end_date: "2012"
 #    - course:
 #        degree: "M.Sc."
 #        institution: 'Sharif University of Technology'
