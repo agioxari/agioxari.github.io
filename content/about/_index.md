@@ -30,6 +30,23 @@ affiliations:
 
 academia:
     - course:
+        degree: "Assistant Professor of Clinical Nutrition, "
+        institution: "University of Peloponnese"
+        major: "Department of Nutritional Science and Dietetics"
+        start_date: "2022"
+    - course:
+        degree: "Clinical Dietician, "
+        institution: "Geniko Nosokomeio Thessalonikes Gennemata, Thessaloniki, GR"
+        major: "Department of Clinical Nutrition"
+        start_date: "2018"
+        end_date: "2022"
+    - course:
+        degree: "Senior Researcher, "
+        institution: "Marie Skłodowska-Curie (RISE) Program"
+        major: "Perspectum (Oxford, UK) & Randox (Crumlin, UK)"
+        start_date: "2016"
+        end_date: "2018"
+    - course:
         degree: "Ph.D.,"
         institution:  "Harokopio University"
         major: "Department of Dietetics and Nutritional Science"
