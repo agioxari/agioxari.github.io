@@ -52,6 +52,12 @@ academia:
         start_date: "2016"
         end_date: "2018"
     - course:
+        degree: "Senior Researcher"
+        institution: "Harokopio University"
+        major: "Department of Dietetics and Nutritional Science"
+        start_date: "2012"
+        end_date: "2021"
+    - course:
         degree: "Ph.D.,"
         institution:  "Harokopio University"
         major: "Department of Dietetics and Nutritional Science"
