@@ -7,8 +7,8 @@ weight: 3
 content_type: 'publications'
 section_settings:
     show_section: true
-    title: 'Recent Publications'
-    subtitle: 'Custom Subtitle: see my google scholar for the latest list'    
+    title: 'Select Publications'
+    subtitle: 'FIXME: markdownify subtitle elements and fix css for links in h6'
 ---
 
 home/publications.md
