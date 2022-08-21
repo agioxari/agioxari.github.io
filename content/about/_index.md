@@ -20,6 +20,7 @@ interests:
     - The role of nutrients and non-nutrient microconstituents in inflammation
       and oxidative stress
     - Sustainable dietary patterns
+    - Paediatric nutrition
     - AI and data-driven dietary interventions
     - Randomised, controlled clinical trials
     - Human bioavailability studies
