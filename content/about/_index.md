@@ -52,24 +52,18 @@ academia:
         start_date: "2016"
         end_date: "2018"
     - course:
-        degree: "Senior Researcher"
+        degree: "Senior Researcher, "
         institution: "Harokopio University"
         major: "Department of Dietetics and Nutritional Science"
         start_date: "2012"
         end_date: "2021"
+        other_info: "* this position concurrent with other listed roles."
     - course:
         degree: "Ph.D.,"
         institution:  "Harokopio University"
         major: "Department of Dietetics and Nutritional Science"
         start_date: "2006"
         end_date: "2012"
-#    - course:
-#        degree: "M.Sc."
-#        institution: 'Sharif University of Technology'
-#        major: 'Software Engineering'
-#        start_date: '2013'
-#        end_date: '2016'
-#        other_info: 'graduated without first class honor, supervised by Prof. Very Cool!'
 ---
 
 I am Assistant Professor of Clinical Nutrition at the Department of Nutritional
