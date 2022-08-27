@@ -21,10 +21,17 @@ news_items:
 - text: |
       **Topic Editor:**
       I am serving as an editor for the
+      [Rising Stars in Nutritional Immunology: Interplay of Immune System and Dietary Factors in Inflammatory Bowel Diseases](https://www.frontiersin.org/research-topics/43773/rising-stars-in-nutritional-immunology-interplay-of-immune-system-and-dietary-factors-in-inflammator)
+      research topic for [Frontiers in Nutrition](https://www.frontiersin.org/journals/nutrition).
+  extra_text: "Deadline for manuscript submissions: **30 September 2022**"
+  date: 2022-10-01
+- text: |
+      **Topic Editor:**
+      I am serving as an editor for the
       [Non-nutrient Microconstituents in Non-communicable Diseases: A Molecular Nutrition Approach](https://www.frontiersin.org/research-topics/37809/non-nutrient-microconstituents-in-non-communicable-diseases-a-molecular-nutrition-approach)
       research topic for [Frontiers in Nutrition](https://www.frontiersin.org/journals/nutrition).
   extra_text: "Deadline for manuscript submissions: **31 August 2022**"
-  date: 2022-10-01
+  date: 2022-09-01
 #- text: "TODO, with video!"
 #  link: https://https://feathericons.com//
 #  extra_text: "HotOS'19."
