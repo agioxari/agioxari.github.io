@@ -67,9 +67,14 @@ academia:
         end_date: "2012"
 ---
 
-I am Assistant Professor of Clinical Nutrition at the Department of Nutritional
-Science and Dietetics of the University of Peloponnese in Kalamata-Greece.
+I am an [Assistant Professor of Clinical Nutrition][staff-page]
+in the [Department of Nutritional Science and Dietetics][dept-page]
+of the [University of Peloponnese][uop] in Kalamata-Greece.
 My expertise is in investigating the effects of diet, mainly Mediterranean diet
 including its foods and food components, on health-related outcomes with
 emphasis on the clinical-laboratory profile, inflammation, oxidative stress,
 metabolic indices, and biomarkers related to chronic disease.
+
+[staff-page]: http://nds.uop.gr/meli-dep/
+[dept-page]: http://nds.uop.gr/
+[uop]: https://www.uop.gr/en/
