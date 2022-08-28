@@ -12,6 +12,7 @@ blog: false
 
 socials:
     google_scholar: "citations?user=1DkSFNEAAAAJ"
+    orcid: "0000-0002-4869-6815"
 
 interests:
     - The impact of Mediterranean diet on obesity and non-communicable diseases
